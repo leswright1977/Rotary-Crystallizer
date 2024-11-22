@@ -3,7 +3,7 @@ Rotary Crystallizer
 
 
 
-![screenshot](pcb/pcbing.png)
+![screenshot](pcb/pcbimg.png)
 
 
 ![screenshot](pcb/3dpcbimg.png)
