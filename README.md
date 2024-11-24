@@ -7,10 +7,25 @@ A Modern Holden style Rotary Crystallizer, using off the shelf parts (apart from
 
 Quanitities and Graphs
 ![screenshot](graphs/sol1.PNG)
+
+Above is solubility data derived from data at https://www.sigmaaldrich.com/GB/en/support/calculators-and-apps/solubility-table-compounds-water-temperature
+
+
 ![screenshot](graphs/sol2.PNG)
+
+Above: Solubilty curve assuming 450ml of solvent.
+
 ![screenshot](graphs/sol3.PNG)
+
+Above: Projected crystal mass for a 10C temperature drop.
+
 ![screenshot](graphs/sol4.PNG)
+
+Initial start temperature of 47C. This is 0.9C below the saturation point, giving an intitial supersaturation of 1.5%
+
 ![screenshot](graphs/sol5.PNG)
+
+At 44.5C the projected supersaturation is about 7%. This does not take into account crystal growth in this period, and is likely closer to 6% during a growth cycle. This puts the supersaturation level in te fast growth regime.
 
 ![screenshot](graphs/updated-curve.png)
 
