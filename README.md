@@ -1,6 +1,7 @@
 # Rotary-Crystallizer
 
 A Modern Holden style Rotary Crystallizer, using off the shelf parts (apart from PCB), capable of growing large optically clear crystals of Potassium DiHydrogen Phosphate (KDP) in just 7 days!
+
 ![screenshot](media/xtal.png)
 
 ## Theory
