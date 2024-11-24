@@ -39,6 +39,10 @@ I2C breakout is planned in version 2 for TMP117 sensors and expandability.
 
 ## Python Data Processing
 
+![screenshot](graphs/example-run.png)
+![screenshot](graphs/example-oscillation.png)
+![screenshot](graphs/example-error.png)
+
 
 
 
