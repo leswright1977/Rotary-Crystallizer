@@ -6,6 +6,13 @@ A Modern Holden style Rotary Crystallizer, using off the shelf parts (apart from
 ## Theory
 
 Quanitities and Graphs
+![screenshot](lightburn/sol1.PNG)
+![screenshot](lightburn/sol2.PNG)
+![screenshot](lightburn/sol3.PNG)
+![screenshot](lightburn/sol4.PNG)
+![screenshot](lightburn/sol5.PNG)
+
+![screenshot](lightburn/updated-curve.png)
 
 ## Hardware
 
